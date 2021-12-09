@@ -1,2 +1,2 @@
 # Paragon z warzywniaka
-for course
+kto jest debesciak
